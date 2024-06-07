@@ -1,5 +1,5 @@
 ## To run the app locally:
-- npm run server
+- npm run start
 
 ## Deploye Link
 - https://project-5fek.vercel.app/
